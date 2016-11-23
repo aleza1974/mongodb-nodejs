@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: mongodb-nodejs
+  name: app
   host: mongodb-nodejs
   disk_quota: 256M
