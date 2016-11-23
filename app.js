@@ -21,7 +21,8 @@ if (mongo) {
   }
 } else {
 	console.log('#007#'); 
-  conn_str = 'mongodb://localhost:27017';
+//  conn_str = 'mongodb://localhost:27017';
+  conn_str = 'mongodb://192.168.162.173:27017';
 }
 console.log('#008#'); 
 
